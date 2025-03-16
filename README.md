@@ -4,7 +4,7 @@
 **AnnaMatskevich/AnnaMatskevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 кт итмо 2 курс 
-стипендиат vk education
+стипендиат vk education, лаборант LISA ITMO
 - tg: @anya_mats
 - codeforces: anya_matskevich
 
